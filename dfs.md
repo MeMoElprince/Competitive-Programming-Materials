@@ -22,3 +22,8 @@
 - [Nature](https://vjudge.net/problem/UVA-10685)
 - [The Party, Part I](https://codeforces.com/problemset/problem/115/A)
 - [Mail Stamps](https://codeforces.com/problemset/problem/29/C)
+- [Road Map](https://codeforces.com/problemset/problem/34/D)
+- [Xor-tree](https://codeforces.com/problemset/problem/430/C)
+- [DZY Loves Chemistry](https://codeforces.com/problemset/problem/445/B)
+- [Ordering Tasks](https://vjudge.net/problem/UVA-10305)
+- [PolandBall and Forest](https://codeforces.com/problemset/problem/755/C)
