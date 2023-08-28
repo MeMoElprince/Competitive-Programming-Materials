@@ -4,3 +4,4 @@
 
 
 - [DFS](https://github.com/MeMoElprince/Competitive-Programming-Materials/blob/main/dfs.md)
+- [BFS](https://github.com/MeMoElprince/Competitive-Programming-Materials/blob/main/bfs.md)
